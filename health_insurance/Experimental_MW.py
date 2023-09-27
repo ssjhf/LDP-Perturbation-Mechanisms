@@ -9,7 +9,7 @@ input_list = health_insurance.T
 pi_A = sum(input_list)/len(input_list)
 M = len(input_list)
 N = len(input_list)
-num_of_epsilon = 10
+num_of_epsilon = 9
 epsilon = np.linspace(0.2, 1,num_of_epsilon)
 exp_of_epsilon = np.exp(epsilon)
 
@@ -62,7 +62,7 @@ for j in range(len(epsilon)):
     print(j)
     mean_proportion = np.zeros(REPEAT_TIMES)
     for times in range(REPEAT_TIMES):
-        if (times%100==0):
+        if (times%1000==0):
             print(times)
         rand_num = np.random.rand(N)
         output_list = np.where(rand_num < p_real_Warner[j], input_list, 1 - input_list)
