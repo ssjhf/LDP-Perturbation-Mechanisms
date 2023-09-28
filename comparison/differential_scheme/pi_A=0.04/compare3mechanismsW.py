@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 '''
-W
+W/S
 '''
 # 从txt文件中读取数据
 data = np.loadtxt('Experimental_W.txt')  # 跳过第一行表头
@@ -19,7 +19,7 @@ plt.plot(epsilon, numericalsimulation, color='#FF8C00', marker ='.', markerfacec
 
 
 '''
-MW
+MW/MS
 '''
 
 # 从txt文件中读取数据
@@ -35,7 +35,7 @@ plt.plot(epsilon, numericalsimulation, color='b', marker ='^', linewidth=1, mark
 
 
 '''
-MS
+IW/IS
 '''
 # 从txt文件中读取数据
 data = np.loadtxt('Experimental_IW.txt')  # 跳过第一行表头

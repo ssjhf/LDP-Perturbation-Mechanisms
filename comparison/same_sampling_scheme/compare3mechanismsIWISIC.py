@@ -19,7 +19,7 @@ plt.plot(epsilon, numericalsimulation, color='g', marker ='^', markerfacecolor='
 
 
 # '''
-# S
+# IS
 # '''
 #
 # # 从txt文件中读取数据
@@ -31,10 +31,10 @@ plt.plot(epsilon, numericalsimulation, color='g', marker ='^', markerfacecolor='
 # numericalsimulation = data[:, 2]  # 第三列作为第二条曲线的纵坐标
 #
 # # 绘制图表
-# plt.plot(epsilon, numericalsimulation, color='b', marker ='h', linewidth=1, markerfacecolor='none', markersize=10, linestyle=':', label='Simmons($\pi_B=1/2$)($\pi_B$=0.25, numerical simulation)')
+# plt.plot(epsilon, numericalsimulation, color='b', marker ='h', linewidth=1, markerfacecolor='none', markersize=10, linestyle=':', label='Improved Simmons($\pi_B=1/2$)($\pi_B$=0.25, numerical simulation)')
 
 '''
-C
+IC
 '''
 # 从txt文件中读取数据
 data = np.loadtxt('Experimental_IC_L=3_p2=0.25.txt')  # 跳过第一行表头
