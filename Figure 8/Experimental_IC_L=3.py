@@ -14,7 +14,7 @@ epsilon = np.linspace(0.2, 1,num_of_epsilon)
 exp_of_epsilon = np.exp(epsilon)
 
 '''
-Improved Christofides, L=3, theorical analysis
+Improved Christofides, L=3, theoretical analysis
 '''
 L = 3
 opt_epsilon = [0] * num_of_epsilon

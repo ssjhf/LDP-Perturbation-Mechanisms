@@ -5,96 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6b134bc-d764-4274-92a4-d82aa30168cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Experimental_IS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_C_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_C_L=3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_C_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_IC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_IC_L=3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_IC_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_IW.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_IW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_MC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_MC_L=3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_MC_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_MW.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_MW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_W.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/Experimental_W.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/WMWIW.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/compare3mechanismsC.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/compare3mechanismsC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/compare3mechanismsW.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparison/differential_scheme/pi_A=0.04/compare3mechanismsW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_C_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_C_L=3_p2=0.25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_C_L=3_p2=0.5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_C_L=3_p2=0.75.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_IC_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_IC_L=3_p2=0.25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_IC_L=3_p2=0.5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_IC_L=3_p2=0.75.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_IS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_IW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_MC_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_MC_L=3_p2=0.25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_MC_L=3_p2=0.5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_MC_L=3_p2=0.75.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_MS_pi_B=0.25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_MW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_S_pi_B=0.25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_S_pi_B=0.5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_S_pi_B=0.75.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/Experimental_W.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/compare3mechanismsIWISIC.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparison/same_sampling_scheme/compare3mechanismsIWISIC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/compare3mechanismsMWMSMC.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparison/same_sampling_scheme/compare3mechanismsMWMSMC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison/same_sampling_scheme/compare3mechanismsWSC.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparison/same_sampling_scheme/compare3mechanismsWSC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/.idea/health_insurance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_C_L=3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_IC_L=3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_IC_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_IW.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_IW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_MC_L=3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_MC_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_MS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_MS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_MW.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_MW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_S.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_W.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/Experimental_W.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/compare6mechanisms.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/compare6mechanisms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_insurance/health_insurance.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/min_N.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/.idea/verification.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental verification of theory.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_IS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_C_L=3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_C_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_IC_L=3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_IC_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_IW.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_IW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_MC_L=3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_MC_L=3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_MS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_MS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_MW.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_MW.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_S.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_W.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/Experimental_verification_of_theory_W.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/IS_with_epsilon_pi_B.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/verification/compare8mechanisms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 7/Experimental_C_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 7/Experimental_C_L=3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 7/Experimental_IC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 7/Experimental_IC_L=3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 7/Experimental_MC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 7/Experimental_MC_L=3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_C_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_C_L=3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_IC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_IC_L=3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_IW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_IW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_MC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_MC_L=3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_MS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_MS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_MW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_MW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_S.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_W.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_W.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,7 +184,7 @@
       <workItem from="1695775829537" duration="97000" />
       <workItem from="1695886664203" duration="733000" />
       <workItem from="1696640344575" duration="15000" />
-      <workItem from="1696816725265" duration="2606000" />
+      <workItem from="1696816725265" duration="4134000" />
     </task>
     <servers />
   </component>
@@ -273,7 +195,9 @@
     <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_MC_L_3.coverage" NAME="Experimental_verification_of_theory_MC_L=3 Coverage Results" MODIFIED="1696818725351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
     <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_W.coverage" NAME="Experimental_W Coverage Results" MODIFIED="1696819332331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 6" />
     <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$min_N.coverage" NAME="min_N Coverage Results" MODIFIED="1695708307917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_IC_L_3.coverage" NAME="Experimental_IC_L=3 Coverage Results" MODIFIED="1696819702440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 7" />
     <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_IW.coverage" NAME="Experimental_verification_of_theory_IW Coverage Results" MODIFIED="1696818824614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
+    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_C_L_3.coverage" NAME="Experimental_C_L=3 Coverage Results" MODIFIED="1696819785459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 7" />
     <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_IS__1_.coverage" NAME="Experimental_IS (1) Coverage Results" MODIFIED="1696818269722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fig1" />
     <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_IW.coverage" NAME="Experimental_IW Coverage Results" MODIFIED="1696819297212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 6" />
     <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$compare6mechanisms.coverage" NAME="compare6mechanisms Coverage Results" MODIFIED="1695724059222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/health_insurance" />

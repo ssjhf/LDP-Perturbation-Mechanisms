@@ -14,7 +14,7 @@ epsilon = np.linspace(0.2, 1,num_of_epsilon)
 exp_of_epsilon = np.exp(epsilon)
 
 '''
-Improved Warner, theorical analysis
+Improved Warner, theoretical analysis
 '''
 opt_epsilon = [0] * num_of_epsilon
 var_IW_Theory_Analysis = [0] * num_of_epsilon

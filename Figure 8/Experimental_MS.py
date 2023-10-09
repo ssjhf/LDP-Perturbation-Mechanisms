@@ -14,7 +14,7 @@ epsilon = np.linspace(0.2, 1,num_of_epsilon)
 exp_of_epsilon = np.exp(epsilon)
 
 '''
-Simmons, theorical analysis
+Simmons, theoretical analysis
 '''
 pi_B = 0.25
 opt_epsilon = [0] * num_of_epsilon
