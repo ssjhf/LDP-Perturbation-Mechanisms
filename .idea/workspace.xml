@@ -4,65 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6b134bc-d764-4274-92a4-d82aa30168cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 7/Experimental_C_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 7/Experimental_C_L=3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 7/Experimental_IC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 7/Experimental_IC_L=3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 7/Experimental_MC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 7/Experimental_MC_L=3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_C_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_C_L=3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_IC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_IC_L=3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_IW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_IW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_MC_L=3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_MC_L=3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_MS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_MS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_MW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_MW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_S.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure 8/Experimental_W.py" beforeDir="false" afterPath="$PROJECT_DIR$/Figure 8/Experimental_W.py" afterDir="false" />
-    </list>
+    <list default="true" id="a7b68cf8-c720-49e3-b95a-489e9fdb6c8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2VrveuSutgtzyYKvkbFv6pSiM09" />
+  <component name="ProjectId" id="2ZQAR8YilRfIOxSvjFcxVFg6OBm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/LDP Perturbation Mechanisms",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/差分隐私/Pertubation mechanisms&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Experimental_C_L=3">
-    <configuration name="Experimental_C_L=3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LDP Perturbation Mechanisms" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\差分隐私\Pertubation mechanisms" />
+      <recent name="F:\差分隐私\Pertubation mechanisms\comparison\same sampling scheme\MWMSMC" />
+      <recent name="F:\差分隐私\Pertubation mechanisms\comparison\different sampling scheme\SMSIS" />
+      <recent name="F:\差分隐私\Pertubation mechanisms\verification" />
+      <recent name="F:\差分隐私\Pertubation mechanisms\realdataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.compare4mechanisms">
+    <configuration name="compare3mechanismsC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pertubation mechanisms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figure 7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparison/different sampling scheme/CMCIC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figure 7/Experimental_C_L=3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparison/different sampling scheme/CMCIC/compare3mechanismsC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,20 +71,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Experimental_IC_L=3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LDP Perturbation Mechanisms" />
+    <configuration name="compare3mechanismsS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pertubation mechanisms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figure 7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparison/different sampling scheme/SMSIS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figure 7/Experimental_IC_L=3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparison/different sampling scheme/SMSIS/compare3mechanismsS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,20 +93,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Experimental_IW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LDP Perturbation Mechanisms" />
+    <configuration name="compare4mechanisms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pertubation mechanisms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figure 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/realdataset" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figure 6/Experimental_IW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/realdataset/compare4mechanisms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,20 +115,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Experimental_MW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LDP Perturbation Mechanisms" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Pertubation mechanisms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figure 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figure 6/Experimental_MW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,20 +137,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Experimental_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LDP Perturbation Mechanisms" />
+    <configuration name="temp2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pertubation mechanisms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Figure 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/realdataset" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Figure 6/Experimental_W.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/realdataset/temp2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,32 +159,60 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="verification_of_6_mechanisms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pertubation mechanisms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/verification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verification/verification_of_6_mechanisms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.compare3mechanismsC" />
+      <item itemvalue="Python.compare3mechanismsS" />
+      <item itemvalue="Python.compare4mechanisms" />
+      <item itemvalue="Python.temp2" />
+      <item itemvalue="Python.verification_of_6_mechanisms" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Experimental_C_L=3" />
-        <item itemvalue="Python.Experimental_IC_L=3" />
-        <item itemvalue="Python.Experimental_W" />
-        <item itemvalue="Python.Experimental_MW" />
-        <item itemvalue="Python.Experimental_IW" />
+        <item itemvalue="Python.compare4mechanisms" />
+        <item itemvalue="Python.temp2" />
+        <item itemvalue="Python.compare3mechanismsC" />
+        <item itemvalue="Python.compare3mechanismsS" />
+        <item itemvalue="Python.verification_of_6_mechanisms" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a6b134bc-d764-4274-92a4-d82aa30168cf" name="Changes" comment="" />
-      <created>1695607111630</created>
+      <changelist id="a7b68cf8-c720-49e3-b95a-489e9fdb6c8c" name="Changes" comment="" />
+      <created>1702343918483</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695607111630</updated>
-      <workItem from="1695607112664" duration="126000" />
-      <workItem from="1695708098069" duration="815000" />
-      <workItem from="1695719471512" duration="2620000" />
-      <workItem from="1695775782220" duration="25000" />
-      <workItem from="1695775829537" duration="97000" />
-      <workItem from="1695886664203" duration="733000" />
-      <workItem from="1696640344575" duration="15000" />
-      <workItem from="1696816725265" duration="4134000" />
+      <updated>1702343918483</updated>
+      <workItem from="1702343919517" duration="14010000" />
+      <workItem from="1702429584896" duration="4492000" />
+      <workItem from="1702437065121" duration="5129000" />
+      <workItem from="1702517262751" duration="12084000" />
+      <workItem from="1702605458089" duration="4802000" />
+      <workItem from="1703119930235" duration="50000" />
     </task>
     <servers />
   </component>
@@ -192,24 +220,38 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_MC_L_3.coverage" NAME="Experimental_verification_of_theory_MC_L=3 Coverage Results" MODIFIED="1696818725351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_W.coverage" NAME="Experimental_W Coverage Results" MODIFIED="1696819332331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 6" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$min_N.coverage" NAME="min_N Coverage Results" MODIFIED="1695708307917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_IC_L_3.coverage" NAME="Experimental_IC_L=3 Coverage Results" MODIFIED="1696819702440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 7" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_IW.coverage" NAME="Experimental_verification_of_theory_IW Coverage Results" MODIFIED="1696818824614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_C_L_3.coverage" NAME="Experimental_C_L=3 Coverage Results" MODIFIED="1696819785459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 7" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_IS__1_.coverage" NAME="Experimental_IS (1) Coverage Results" MODIFIED="1696818269722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fig1" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_IW.coverage" NAME="Experimental_IW Coverage Results" MODIFIED="1696819297212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 6" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$compare6mechanisms.coverage" NAME="compare6mechanisms Coverage Results" MODIFIED="1695724059222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/health_insurance" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$compare8mechanisms.coverage" NAME="compare8mechanisms Coverage Results" MODIFIED="1696818970850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$compare3mechanismsWSC.coverage" NAME="compare3mechanismsWSC Coverage Results" MODIFIED="1696819213828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 3" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_MW.coverage" NAME="Experimental_verification_of_theory_MW Coverage Results" MODIFIED="1696818441805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_IS.coverage" NAME="Experimental_IS Coverage Results" MODIFIED="1696817980229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_W.coverage" NAME="Experimental_verification_of_theory_W Coverage Results" MODIFIED="1696818345067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_C_L_3.coverage" NAME="Experimental_verification_of_theory_C_L=3 Coverage Results" MODIFIED="1696818932368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_S.coverage" NAME="Experimental_verification_of_theory_S Coverage Results" MODIFIED="1696818371078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_MS.coverage" NAME="Experimental_verification_of_theory_MS Coverage Results" MODIFIED="1696818647893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_MW.coverage" NAME="Experimental_MW Coverage Results" MODIFIED="1696819320491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 6" />
-    <SUITE FILE_PATH="coverage/LDP_Perturbation_Mechanisms$Experimental_verification_of_theory_IC_L_3.coverage" NAME="Experimental_verification_of_theory_IC_L=3 Coverage Results" MODIFIED="1696818870607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Figure 2" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_IS.coverage" NAME="Experimental_IS Coverage Results" MODIFIED="1702522852332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/realdataset" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare2mechanismsIWIS.coverage" NAME="compare2mechanismsIWIS Coverage Results" MODIFIED="1702538704613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/same sampling scheme/IWISIC" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_verification_of_theory_IW.coverage" NAME="Experimental_verification_of_theory_IW Coverage Results" MODIFIED="1702379497208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare3mechanismsIWISIC.coverage" NAME="compare3mechanismsIWISIC Coverage Results" MODIFIED="1702538738606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/same sampling scheme/IWISIC" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare3mechanismsMWMSMC.coverage" NAME="compare3mechanismsMWMSMC Coverage Results" MODIFIED="1702538783208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/same sampling scheme/MWMSMC" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_MS.coverage" NAME="Experimental_MS Coverage Results" MODIFIED="1702605830211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/realdataset" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_of_S.coverage" NAME="Experimental_of_S Coverage Results" MODIFIED="1702448462203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/different sampling scheme/SMSIS" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_verification_of_theory_C_L_3.coverage" NAME="Experimental_verification_of_theory_C_L=3 Coverage Results" MODIFIED="1702371130541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$temp2.coverage" NAME="temp2 Coverage Results" MODIFIED="1702607642002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/realdataset" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_verification_of_theory_IC_L_3.coverage" NAME="Experimental_verification_of_theory_IC_L=3 Coverage Results" MODIFIED="1702371169032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_verification_of_IS.coverage" NAME="Experimental_verification_of_IS Coverage Results" MODIFIED="1702344041693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_verification_of_theory_MC_L_3.coverage" NAME="Experimental_verification_of_theory_MC_L=3 Coverage Results" MODIFIED="1702371192135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare3mechanismsW.coverage" NAME="compare3mechanismsW Coverage Results" MODIFIED="1702538868382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/different sampling scheme/WMWIW" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$comparemechanismsS.coverage" NAME="comparemechanismsS Coverage Results" MODIFIED="1702540024393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/different sampling scheme/SMSIS" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare2mechanismsIWIS__1_.coverage" NAME="compare2mechanismsIWIS (1) Coverage Results" MODIFIED="1702373010529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/same sampling scheme/IWISIC" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare3mechanismsWSC.coverage" NAME="compare3mechanismsWSC Coverage Results" MODIFIED="1702538792679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/same sampling scheme/WSC" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$temp.coverage" NAME="temp Coverage Results" MODIFIED="1702539778475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/different sampling scheme/SMSIS" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare3mechanismsIWIS.coverage" NAME="compare3mechanismsIWIS Coverage Results" MODIFIED="1702372990976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/same sampling scheme/IWISIC" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare8mechanisms.coverage" NAME="compare8mechanisms Coverage Results" MODIFIED="1702364961049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_verification_of_theory_MS.coverage" NAME="Experimental_verification_of_theory_MS Coverage Results" MODIFIED="1702370682888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_of_MS.coverage" NAME="Experimental_of_MS Coverage Results" MODIFIED="1702539932244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/different sampling scheme/SMSIS" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare6mechanisms.coverage" NAME="compare6mechanisms Coverage Results" MODIFIED="1702605660177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/realdataset" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$verification_of_6_mechanisms.coverage" NAME="verification_of_6_mechanisms Coverage Results" MODIFIED="1702606575990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare4mechanisms.coverage" NAME="compare4mechanisms Coverage Results" MODIFIED="1702621947916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/realdataset" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_of_IS.coverage" NAME="Experimental_of_IS Coverage Results" MODIFIED="1702539953913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/different sampling scheme/SMSIS" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_verification_of_theory_IS.coverage" NAME="Experimental_verification_of_theory_IS Coverage Results" MODIFIED="1702371430070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_of_IS__1_.coverage" NAME="Experimental_of_IS (1) Coverage Results" MODIFIED="1702367552915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/different sampling scheme/SMSIS" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare3mechanismsS.coverage" NAME="compare3mechanismsS Coverage Results" MODIFIED="1702606676560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/different sampling scheme/SMSIS" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$Experimental_verification_of_theory_MW.coverage" NAME="Experimental_verification_of_theory_MW Coverage Results" MODIFIED="1702370629807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$min_N.coverage" NAME="min_N Coverage Results" MODIFIED="1702545238834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$temp3.coverage" NAME="temp3 Coverage Results" MODIFIED="1702446997159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/realdataset" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$compare3mechanismsC.coverage" NAME="compare3mechanismsC Coverage Results" MODIFIED="1702606866753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/different sampling scheme/CMCIC" />
+    <SUITE FILE_PATH="coverage/Pertubation_mechanisms$temp__1_.coverage" NAME="temp (1) Coverage Results" MODIFIED="1702430734253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/realdataset" />
   </component>
 </project>
